@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://github.com/AyanXDeveloper?tab=repositories"><img width="80%" alt="Hello, I'm Ayan. I do open source!" src="./add-a-heading.png" /></a></p>
+<p align="center"><a href="https://github.com/AyanXDeveloper?tab=repositories"><img width="80%" alt="Hello, I'm Ayan. I do open source!" src="./github-profile.png" /></a></p>
 
 <br />
 
