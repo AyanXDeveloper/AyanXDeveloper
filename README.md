@@ -79,12 +79,24 @@ I strongly believe in **mobile-first development**, **accessibility**, and **eff
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
+<!-- New Trophy & Streak Section -->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AyanXDeveloper&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanXDeveloper&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-profile-trophy.vercel.app/?username=AyanXDeveloper&theme=darkhub&row=1&margin-w=15" alt="Trophies" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyanXDeveloper&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanXDeveloper&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AyanXDeveloper&theme=tokyonight" height="180" />
+</p>
+
 
 ---
 
@@ -96,7 +108,7 @@ I’m open to:
 - Freelance projects & collaborations  
 - Open-source contributions  
 
-📧 **Email:** ayyanzaveri@gmail.com  
+📧 **Email:** ayansocials@gmail.com
 🔗 **LinkedIn:** [Ayan Zaveri](https://www.linkedin.com/in/ayan-zaveri-b7b379398/)
 
 ---
