@@ -13,4 +13,6 @@ Skilled in **HTML**, **CSS**, and **JavaScript**, with a love for clean design a
   
 Constantly learning, experimenting, and pushing the boundaries of what the front end can do.
   
-Let’s connect — reach me at **ayyanzaveri@gmail.com** for collaborations or opportunities!
+Let’s connect — reach me at **ayyanzaveri@gmail.com**
+Or
+At my Linkedin Profile **https://www.linkedin.com/in/ayan-zaveri-b7b379398/** for collaborations or opportunities!
