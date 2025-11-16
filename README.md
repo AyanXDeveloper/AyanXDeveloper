@@ -2,7 +2,7 @@
   <img src="./github-profile.png" alt="Ayan Zaveri — Frontend Expert" width="80%">
 </p>
 
-<h1 align="center">👋 Hi, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=36&duration=2000&pause=1000&color=FFFFFF&repeat=false&width=215&height=47&lines=Ayan+Zaveri" alt="Typing SVG" /></a></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=&size=36&duration=2000&pause=1000&color=FFFFFF&repeat=false&width=440&height=48&lines=%F0%9F%91%8B+Hi%2C+I'm+Ayan+Zaveri" alt="Typing SVG" /></h1>
 
 <h3 align="center">
   <em><span id="typing"></span></em>
