@@ -1,90 +1,81 @@
 <p align="center">
-  <img src="./github-profile.png" alt="Hello! I'm Ayan — Frontend Developer" width="80%">
+  <img src="./github-profile.png" alt="Ayan Zaveri — Frontend Architect" width="80%">
 </p>
 
-<h1 align="center">👋 Hi, I'm Ayan Zaveri</h1>
-<h3 align="center">Frontend Developer • UI Enthusiast • Web Craftsman</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayan-zaveri-b7b379398/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ayyanzaveri@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ayyanzaveri%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=AyanXDeveloper&label=Profile%20Views&color=663399&style=for-the-badge" />
-</p>
+<h1 align="center">👋 Hey, I'm **Ayan Zaveri**</h1>
+<h3 align="center">Crafting beautiful, high-performance web experiences • Front-End Developer</h3>
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Do
 
-I’m a **Frontend Developer** who loves turning ideas into clean, responsive, and visually appealing web experiences.  
-My goal is simple: **build websites that look great, feel smooth, and work perfectly on every screen.**
-
-I enjoy the balance between **design and code** — taking a concept and crafting it into a polished, user-friendly interface.
-
----
-
-## 🧑‍💻 What I Do
-
-- **Frontend Development:** Building fast, responsive, and accessible websites  
-- **Pixel-Perfect UI:** Turning design mockups into clean, production-ready code  
-- **Mobile-First Thinking:** Ensuring every component adapts beautifully to all screen sizes  
-- **Continuous Learning:** Improving workflow, exploring new tools, and writing better code every day  
+- I build **fast, responsive, and pixel-perfect websites** that feel modern and fluid.  
+- Translating design visions (Figma/Sketch/Brands) into clean, scalable, maintainable code is my core superpower.  
+- I work with **HTML5, CSS3 (SASS / SCSS), and JavaScript**, making sure every website is optimized, accessible, and delightfully interactive.  
+- I deeply care about **UX + performance**, not just “something that works.” Slow websites frustrate me — and my users.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🔧 My Skills
 
-### **Foundation**
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-
-### **Styling & UI**
-- Tailwind CSS  
-- Flexbox / CSS Grid  
-- SASS / SCSS  
-- Responsive Web Design  
-
-### **Workflow**
-- Git & GitHub  
-- Cross-Browser Testing  
-- Problem Solving  
-- Clean Code Practices  
+| Category | Skills & Tools |
+|---|---|
+| **Core** | HTML5, CSS3, JavaScript (ES6+) |
+| **Styling** | Flexbox, Grid, SASS/SCSS, Responsive Layouts |
+| **Frameworks / Libraries** | (If you use any — e.g. Bootstrap / React / Tailwind, mention here) |
+| **Workflow** | Git, GitHub, Code Reviews, Cross-Browser Testing |
+| **Performance** | Web Optimization, Image Lazy Loading, Minimal Repaints |
 
 ---
 
-## 🌐 My Approach
+## 🌟 Why Work With Me
 
-I care about:
-
-- **Clarity** — readable, maintainable code  
-- **Design consistency** — spacing, colors, typography handled with precision  
-- **Performance** — fast load times, optimized assets  
-- **User experience** — smooth interactions and clean layouts  
-
-Every project I work on is built with attention to detail and long-term maintainability in mind.
+- **Design & Code Aligned**: I don’t just build — I craft. Every feature, every UI is built to feel intentional.  
+- **Reliability**: I deliver on time, write clean code, and communicate clearly.  
+- **Growth Mindset**: I actively learn new best practices and always seek to improve both my code and my workflow.  
+- **Problem Solver**: Need a landing page, a portfolio, or a web app? I break it down and build it cleanly.
 
 ---
 
-## 💬 Let's Connect
+## 💼 Experience
 
-I’m open to:
-
-✔ Frontend roles  
-✔ Freelance projects  
-✔ Collaboration on open-source  
-✔ UI/UX development work  
-
-Let’s build something amazing together!
-
-📧 **Email:** ayyanzaveri@gmail.com  
-🔗 **LinkedIn:** [Ayan Zaveri](https://www.linkedin.com/in/ayan-zaveri-b7b379398/)
+Based on my **Twine profile**:  
+- I have worked with **Misquit**, **Teedrobe**, and **Wajahat & Partners** building front-end experiences. :contentReference[oaicite:0]{index=0}  
+- My projects range from **portfolio style websites** to **high-conversion landing pages**. :contentReference[oaicite:1]{index=1}  
+- Focus areas include **performance**, **aesthetic design**, and **user satisfaction**. :contentReference[oaicite:2]{index=2}  
 
 ---
 
-<p align="center">
-  Thanks for visiting — Have a great day! ✨
-</p>
+## 📈 Achievements / Highlights
+
+- Delivered **responsive UI** that adapts beautifully across devices (mobile, tablet, desktop)  
+- Improved **page load times** through optimization and smart asset management  
+- Created **user-centric designs** by turning creative layouts into maintainable code  
+- Collaborated with clients and PMs to ensure that every project meets design and business goals  
+
+---
+
+## ✨ Looking For
+
+I’m currently open to the following:
+
+- **Freelance Projects**: Landing pages, portfolio websites, UI rebuilds  
+- **Full-Time Roles**: Front-End Developer / UI Developer  
+- **Open Source**: Happy to contribute to projects that value clean UI and good architecture  
+- **Mentorship / Collaboration**: I love working with fellow devs, both junior and senior
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 **LinkedIn**: [Ayan Zaveri](https://www.linkedin.com/in/ayan-zaveri-b7b379398/)  
+- 📧 **Email**: ayyanzaveri@gmail.com  
+- 🌐 **Portfolio / Work Samples**: [My Twine Profile](https://www.twine.net/Ayanzaveri) :contentReference[oaicite:3]{index=3}  
+
+---
+
+## 🎯 Final Word
+
+I don’t just build websites — I aim to build *web experiences*. Let’s work together to turn your ideas into something *beautiful, fast, and unforgettable*.  
+
+Thanks for stopping by — I look forward to connecting! 🙌  
