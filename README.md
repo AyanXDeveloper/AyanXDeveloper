@@ -2,7 +2,7 @@
   <img src="./github-profile.png" alt="Ayan Zaveri — Frontend Expert" width="80%">
 </p>
 
-<h1 align="center">👋 Hi, I'm **Ayan Zaveri**</h1>
+<h1 align="center">👋 Hi, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=36&duration=2000&pause=1000&color=FFFFFF&repeat=false&width=215&height=47&lines=Ayan+Zaveri" alt="Typing SVG" /></a></h1>
 
 <h3 align="center">
   <em><span id="typing"></span></em>
@@ -35,7 +35,7 @@ I strongly believe in **mobile-first development**, **accessibility**, and **eff
 |---|---|
 | **Core Web** | HTML5, CSS3, JavaScript (ES6+) |
 | **Styling & UI** | Tailwind CSS, CSS Grid / Flexbox, SASS/SCSS, Responsive Design |
-| **Frameworks / Libraries** | *(Add React, Vue, or any you use)* |
+| **Frameworks / Libraries** | Bootstrap, React, Next & etc |
 | **Workflow** | Git, GitHub, Code Reviews, Cross-Browser Testing |
 | **Optimization** | Lazy Loading, Performance Tuning, Mobile-first Optimization |
 
@@ -44,14 +44,13 @@ I strongly believe in **mobile-first development**, **accessibility**, and **eff
 ## 🏢 Experience
 
 ### Frontend Developer Intern — **SyntexHub**  
-*(SyntexHub LinkedIn / Website)*  
 - Developed **interactive and responsive UI components** for real-world web applications  
 - Converted high-fidelity designs (from designers) into **production-ready frontend**  
 - Worked closely with the design & dev team to maintain UI consistency and performance  
 - Gained hands-on experience with real business workflows, testing, and deployment  
 
 ### Freelance Frontend Developer — **Aidvelop**  
-[aidvelop.com](https://aidvelop.com/)  
+[Aidvelop](https://aidvelop.com/)  
 - Built multiple front-end modules and landing pages for Aidvelop’s clients  
 - Ensured code quality, responsiveness, and reuse in freelance web projects  
 - Collaborated with designers and product leads to create clean and efficient UIs  
@@ -97,29 +96,18 @@ I’m open to:
 - Freelance projects & collaborations  
 - Open-source contributions  
 
-<p align="center">
-📧 **ayyanzaveri@gmail.com** • 🔗 **[LinkedIn](https://www.linkedin.com/in/ayan-zaveri-b7b379398/)**  
-</p>
+📧 **Email:** ayyanzaveri@gmail.com  
+🔗 **LinkedIn:** [Ayan Zaveri](https://www.linkedin.com/in/ayan-zaveri-b7b379398/)
 
 ---
 
 <p align="center">
-  **Thanks for stopping by!** Let’s build something **beautiful, fast, and impactful**. 🚀  
+  Thanks for stopping by! Let’s build something beautiful, fast, and impactful. 🚀  
 </p>
 
 ---
 
 <!-- Typing Effect Script -->
-<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
-<script>
-  new Typed('#typing', {
-    strings: [
-      "Building Pixel‑Perfect Web Experiences.",
-      "Turning Design into Reality.",
-      "Crafting Fast & Responsive Web Apps."
-    ],
-    typeSpeed: 60,
-    backSpeed: 40,
-    loop: true
-  });
-</script>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Cod&size=18&pause=1000&color=0F84F7&vCenter=true&width=500&lines=Building+Pixel-Perfect+Web+Experiences+%F0%9F%9A%80;Crafting+Responsive+Web+Applications+%F0%9F%92%BB;Turning+Designs+Into+Reality+%F0%9F%8E%A8" alt="Typing SVG" /></a>
+</div>
