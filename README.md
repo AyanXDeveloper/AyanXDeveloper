@@ -1,81 +1,125 @@
 <p align="center">
-  <img src="./github-profile.png" alt="Ayan Zaveri — Frontend Architect" width="80%">
+  <img src="./github-profile.png" alt="Ayan Zaveri — Frontend Expert" width="80%">
 </p>
 
-<h1 align="center">👋 Hey, I'm **Ayan Zaveri**</h1>
-<h3 align="center">Crafting beautiful, high-performance web experiences • Front-End Developer</h3>
+<h1 align="center">👋 Hi, I'm **Ayan Zaveri**</h1>
+
+<h3 align="center">
+  <em><span id="typing"></span></em>
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayan-zaveri-b7b379398/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="mailto:ayyanzaveri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ayyanzaveri%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AyanXDeveloper&label=Profile%20Views&color=663399&style=for-the-badge" alt="Profile Views">
+</p>
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
 
-- I build **fast, responsive, and pixel-perfect websites** that feel modern and fluid.  
-- Translating design visions (Figma/Sketch/Brands) into clean, scalable, maintainable code is my core superpower.  
-- I work with **HTML5, CSS3 (SASS / SCSS), and JavaScript**, making sure every website is optimized, accessible, and delightfully interactive.  
-- I deeply care about **UX + performance**, not just “something that works.” Slow websites frustrate me — and my users.
+I’m a **Frontend Developer & UI Specialist** with a sharp focus on building **fast, scalable, and visually compelling web experiences**.  
+I bring together **design sensibility**, **clean code**, and **performance optimization** to deliver web applications that not only look great, but feel fast and modern.
+
+I strongly believe in **mobile-first development**, **accessibility**, and **efficient architecture**, and I use that mindset in every project I touch.
 
 ---
 
-## 🔧 My Skills
+## 🔧 Skills & Expertise
 
 | Category | Skills & Tools |
 |---|---|
-| **Core** | HTML5, CSS3, JavaScript (ES6+) |
-| **Styling** | Flexbox, Grid, SASS/SCSS, Responsive Layouts |
-| **Frameworks / Libraries** | (If you use any — e.g. Bootstrap / React / Tailwind, mention here) |
+| **Core Web** | HTML5, CSS3, JavaScript (ES6+) |
+| **Styling & UI** | Tailwind CSS, CSS Grid / Flexbox, SASS/SCSS, Responsive Design |
+| **Frameworks / Libraries** | *(Add React, Vue, or any you use)* |
 | **Workflow** | Git, GitHub, Code Reviews, Cross-Browser Testing |
-| **Performance** | Web Optimization, Image Lazy Loading, Minimal Repaints |
+| **Optimization** | Lazy Loading, Performance Tuning, Mobile-first Optimization |
 
 ---
 
-## 🌟 Why Work With Me
+## 🏢 Experience
 
-- **Design & Code Aligned**: I don’t just build — I craft. Every feature, every UI is built to feel intentional.  
-- **Reliability**: I deliver on time, write clean code, and communicate clearly.  
-- **Growth Mindset**: I actively learn new best practices and always seek to improve both my code and my workflow.  
-- **Problem Solver**: Need a landing page, a portfolio, or a web app? I break it down and build it cleanly.
+### Frontend Developer Intern — **SyntexHub**  
+*(SyntexHub LinkedIn / Website)*  
+- Developed **interactive and responsive UI components** for real-world web applications  
+- Converted high-fidelity designs (from designers) into **production-ready frontend**  
+- Worked closely with the design & dev team to maintain UI consistency and performance  
+- Gained hands-on experience with real business workflows, testing, and deployment  
 
----
-
-## 💼 Experience
-
-Based on my **Twine profile**:  
-- I have worked with **Misquit**, **Teedrobe**, and **Wajahat & Partners** building front-end experiences. :contentReference[oaicite:0]{index=0}  
-- My projects range from **portfolio style websites** to **high-conversion landing pages**. :contentReference[oaicite:1]{index=1}  
-- Focus areas include **performance**, **aesthetic design**, and **user satisfaction**. :contentReference[oaicite:2]{index=2}  
-
----
-
-## 📈 Achievements / Highlights
-
-- Delivered **responsive UI** that adapts beautifully across devices (mobile, tablet, desktop)  
-- Improved **page load times** through optimization and smart asset management  
-- Created **user-centric designs** by turning creative layouts into maintainable code  
-- Collaborated with clients and PMs to ensure that every project meets design and business goals  
+### Freelance Frontend Developer — **Aidvelop**  
+[aidvelop.com](https://aidvelop.com/)  
+- Built multiple front-end modules and landing pages for Aidvelop’s clients  
+- Ensured code quality, responsiveness, and reuse in freelance web projects  
+- Collaborated with designers and product leads to create clean and efficient UIs  
 
 ---
 
-## ✨ Looking For
+## 💡 My Approach
 
-I’m currently open to the following:
-
-- **Freelance Projects**: Landing pages, portfolio websites, UI rebuilds  
-- **Full-Time Roles**: Front-End Developer / UI Developer  
-- **Open Source**: Happy to contribute to projects that value clean UI and good architecture  
-- **Mentorship / Collaboration**: I love working with fellow devs, both junior and senior
+- **Design + Code Harmony:** I merge design intent with robust code to deliver seamless, beautiful interfaces.  
+- **Performance First:** I focus on build times, load speed, and user experience — speed matters.  
+- **Scalable Structure:** I write modular, maintainable code that’s easy to grow with.  
+- **Continuous Growth:** I stay updated with the latest front-end trends, tools, and best practices.
 
 ---
 
-## 📫 Let’s Connect
+## ⚡ Tech Stack & Tools
 
-- 💼 **LinkedIn**: [Ayan Zaveri](https://www.linkedin.com/in/ayan-zaveri-b7b379398/)  
-- 📧 **Email**: ayyanzaveri@gmail.com  
-- 🌐 **Portfolio / Work Samples**: [My Twine Profile](https://www.twine.net/Ayanzaveri) :contentReference[oaicite:3]{index=3}  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
 ---
 
-## 🎯 Final Word
+## 📊 GitHub Stats
 
-I don’t just build websites — I aim to build *web experiences*. Let’s work together to turn your ideas into something *beautiful, fast, and unforgettable*.  
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AyanXDeveloper&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanXDeveloper&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
-Thanks for stopping by — I look forward to connecting! 🙌  
+---
+
+## 📬 Let's Work Together
+
+I’m open to:
+
+- Full-time Frontend roles  
+- Freelance projects & collaborations  
+- Open-source contributions  
+
+<p align="center">
+📧 **ayyanzaveri@gmail.com** • 🔗 **[LinkedIn](https://www.linkedin.com/in/ayan-zaveri-b7b379398/)**  
+</p>
+
+---
+
+<p align="center">
+  **Thanks for stopping by!** Let’s build something **beautiful, fast, and impactful**. 🚀  
+</p>
+
+---
+
+<!-- Typing Effect Script -->
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+<script>
+  new Typed('#typing', {
+    strings: [
+      "Building Pixel‑Perfect Web Experiences.",
+      "Turning Design into Reality.",
+      "Crafting Fast & Responsive Web Apps."
+    ],
+    typeSpeed: 60,
+    backSpeed: 40,
+    loop: true
+  });
+</script>
