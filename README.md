@@ -89,12 +89,12 @@ I strongly believe in **mobile-first development**, **accessibility**, and **eff
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyanXDeveloper&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanXDeveloper&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AyanXDeveloper&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AyanXDeveloper&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AyanXDeveloper&theme=tokyonight" height="180" />
+  <img src="https://git-streak-stats.herokuapp.com?user=AyanXDeveloper&theme=tokyonight" height="180" />
 </p>
 
 
