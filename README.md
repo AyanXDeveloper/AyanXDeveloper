@@ -85,7 +85,7 @@ I strongly believe in **mobile-first development**, **accessibility**, and **eff
 
 <!-- New Trophy & Streak Section -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyanXDeveloper&theme=darkhub&row=1&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy-kappa.vercel.app/?username=AyanXDeveloper&theme=darkhub&row=1&margin-w=15" alt="Trophies" />
 </p>
 
 <p align="center">
