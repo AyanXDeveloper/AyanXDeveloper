@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-I’m a **Frontend Developer & UI Specialist** with a sharp focus on building **fast, scalable, and visually compelling web experiences**.  
+I’m a **Full Stack Developer & UI UX Specialist** with a sharp focus on building **fast, scalable, and visually compelling web experiences**.  
 I bring together **design sensibility**, **clean code**, and **performance optimization** to deliver web applications that not only look great, but feel fast and modern.
 
 I strongly believe in **mobile-first development**, **accessibility**, and **efficient architecture**, and I use that mindset in every project I touch.
